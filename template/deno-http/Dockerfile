@@ -1,4 +1,4 @@
-FROM austinrivas/deno-http-base:stable
+FROM brannondorsey/deno-http-base:stable
 
 WORKDIR ${FUNC_HOME_DIR}
 
